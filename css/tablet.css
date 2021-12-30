@@ -1,0 +1,24 @@
+main .main-logo img {
+    width: 300px;
+    height: 100px;
+}
+
+main .main-input {
+    width: 400px;
+}
+
+main .main-inpunt-container {
+    width: 400px;
+}
+
+main .main-input input {
+    width: 400px;
+}
+
+main .main-input .search-icon {
+    left: -30px;
+}
+
+main .main-input .voice-icon {
+    left: 15px;
+}
